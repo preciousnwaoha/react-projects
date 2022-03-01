@@ -1,0 +1,19 @@
+.user-list ul {
+    padding: 1rem 2rem;
+    width: 100%;
+}
+
+.user-list li {
+    list-style: none;
+    padding-left: 0;
+    display: inline-block;
+    border: 1px solid #dddddd;
+    border-left: 4px solid tomato;
+    width: 100%;
+    height: 35px;
+    line-height: 35px;
+    margin-bottom: 0.5rem;
+    font-size: 12px;
+    padding: 0 1rem;
+    
+}
