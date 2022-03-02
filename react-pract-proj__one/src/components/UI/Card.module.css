@@ -1,0 +1,16 @@
+.card {
+    width: 90%;
+    max-width: 500px;
+    height: auto;
+    margin: 1rem auto;
+    background: #fafafa;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}
+
+@media screen and (max-width: 400px) {
+    .card {
+        width: 98%;
+        border-radius: 0;
+    }
+}
